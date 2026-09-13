@@ -1,5 +1,5 @@
 API / exe / zip PARITE
 ==================================================
 
-zip .py sayisi: 123
-zip<->kaynak fark: YOK (hepsi birebir SHA-256 eslesti)
+zip .py number: 123
+zip<->other another: no (all of thing SHA-256 merged)
