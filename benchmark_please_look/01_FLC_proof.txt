@@ -1,4 +1,4 @@
-FLC COLLECTOR — çalışıyor kanıtı
+FLC COLLECTOR — working proof
 ==================================================
 
 flc: 604 sources
