@@ -1,0 +1,5 @@
+API / exe / zip PARITE
+==================================================
+
+zip .py sayisi: 123
+zip<->kaynak fark: YOK (hepsi birebir SHA-256 eslesti)

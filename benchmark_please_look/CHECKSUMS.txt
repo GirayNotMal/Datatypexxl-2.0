@@ -1,0 +1,12 @@
+SHA-256 checksums - Data Type XXL v2.0.0
+==================================================
+
+28754e544ca7d73f81e429462f92000ba24adc50904c88b18111267c7ba616b2  datatypexll_exe.zip  (211.0 MB)
+466e5e45ecb1bd664e01fc6adf756406643684df189a22686d5061d147b5e10b  DataTypeXXL_benchmark.png  (0.1 MB)
+3451542b35777c5c21e4d5c6bb6a975a7838fdfec456ecfac3d75ad325ed65ae  datatypexxl_preview.png  (0.1 MB)
+
+Verify (Windows PowerShell):
+  Get-FileHash .\<file> -Algorithm SHA256
+
+Verify (Linux/macOS):
+  sha256sum <file>

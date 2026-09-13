@@ -1,0 +1,147 @@
+{
+  "doctor": {
+    "checks": [
+      {
+        "check": "app_import",
+        "status": "PASS",
+        "detail": "datatypexxl API imports"
+      },
+      {
+        "check": "tokenizer_stdlib",
+        "status": "PASS",
+        "detail": "stdlib Words tokenizer works (4 tokens)"
+      },
+      {
+        "check": "tokenizer_bpe",
+        "status": "WARN",
+        "detail": "tiktoken not installed; BPE tokenisers load on demand"
+      },
+      {
+        "check": "token_repair",
+        "status": "PASS",
+        "detail": "token repair works ('çelik')"
+      },
+      {
+        "check": "explainer",
+        "status": "PASS",
+        "detail": "explainer works"
+      },
+      {
+        "check": "feature_imports",
+        "status": "PASS",
+        "detail": "all 22 feature modules import"
+      },
+      {
+        "check": "disk_space",
+        "status": "PASS",
+        "detail": "496.7 GB free"
+      },
+      {
+        "check": "generation",
+        "status": "PASS",
+        "detail": "generation ready: audio"
+      }
+    ],
+    "summary": {
+      "pass": 7,
+      "warn": 1,
+      "fail": 0,
+      "healthy": true
+    }
+  },
+  "import_health": {
+    "engine": {
+      "ok": true,
+      "error": ""
+    },
+    "datatypexxl": {
+      "ok": true,
+      "error": ""
+    },
+    "describe": {
+      "ok": true,
+      "error": ""
+    },
+    "token_repair": {
+      "ok": true,
+      "error": ""
+    },
+    "local_ingest": {
+      "ok": true,
+      "error": ""
+    },
+    "web_scrape": {
+      "ok": true,
+      "error": ""
+    },
+    "image_gen": {
+      "ok": true,
+      "error": ""
+    },
+    "video_gen": {
+      "ok": true,
+      "error": ""
+    },
+    "audio_gen": {
+      "ok": true,
+      "error": ""
+    },
+    "dataset_tools": {
+      "ok": true,
+      "error": ""
+    },
+    "cad_drawing": {
+      "ok": true,
+      "error": ""
+    },
+    "mesh_quality": {
+      "ok": true,
+      "error": ""
+    },
+    "precision": {
+      "ok": true,
+      "error": ""
+    },
+    "checkpoint": {
+      "ok": true,
+      "error": ""
+    },
+    "hunyuan3d": {
+      "ok": true,
+      "error": ""
+    },
+    "wanted3d": {
+      "ok": true,
+      "error": ""
+    },
+    "video_sources": {
+      "ok": true,
+      "error": ""
+    },
+    "diagnostics": {
+      "ok": true,
+      "error": ""
+    },
+    "progress": {
+      "ok": true,
+      "error": ""
+    },
+    "scratch_training": {
+      "ok": true,
+      "error": ""
+    },
+    "global_datasets": {
+      "ok": true,
+      "error": ""
+    },
+    "synthetic_data": {
+      "ok": true,
+      "error": ""
+    },
+    "_summary": {
+      "total": 22,
+      "ok": 22,
+      "failed": []
+    }
+  }
+}

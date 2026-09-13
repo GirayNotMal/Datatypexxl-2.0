@@ -1,0 +1,7 @@
+FLC COLLECTOR — çalışıyor kanıtı
+==================================================
+
+flc: 604 sources
+  by kind: coder_search=296, commit_history=10, commoncrawl=7, direct=34, github_search=1, internet_search=119, mediawiki=136, stackoverflow=1
+  mode=FLC quality>=60 rps=30 workers=48
+  limits: max_tokens=- max_chunks=- bytes=10.0GB

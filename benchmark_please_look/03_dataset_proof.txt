@@ -1,0 +1,29 @@
+VERI SETI - gercek ingest + rapor
+==================================================
+
+dosya: 4
+chunk: 37
+token: 35957
+
+dataset_report:
+{
+  "chunks": 37,
+  "tokens": 35957,
+  "code_percent": 59.5,
+  "content_types": {
+    "knowledge": 15,
+    "code": 22
+  },
+  "languages_total": 2,
+  "top_languages": [
+    [
+      "python",
+      22
+    ],
+    [
+      "markdown",
+      15
+    ]
+  ],
+  "average_quality": 100.0
+}

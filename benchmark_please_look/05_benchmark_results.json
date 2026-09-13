@@ -1,0 +1,8 @@
+{
+  "api_functions": 181,
+  "version": "2.0.0",
+  "repair_MB_s": 21.4,
+  "web_parse_pages_s": 1131,
+  "gpu": "1 GPU(s), driver 581.57",
+  "torch": true
+}

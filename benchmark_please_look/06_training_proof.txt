@@ -1,0 +1,19 @@
+SIFIRDAN EGITIM - model gercekten ogreniyor
+==================================================
+
+nano GPT, gercek kod verisi, CPU:
+
+  adim  10  loss 66.4
+  adim  20  loss 26.9
+  adim  30  loss 14.0
+  adim  40  loss 8.6
+  adim  50  loss 5.7
+  adim  60  loss 5.2
+  adim  70  loss 4.4
+  adim  80  loss 3.7
+  adim  90  loss 3.5
+  adim 100  loss 3.86
+  adim 120  loss 3.31
+  adim 150  loss 3.25
+
+>>> loss 66.4 -> 3.25  (GERCEKTEN ogrendi - placeholder degil)
