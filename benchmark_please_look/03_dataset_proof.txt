@@ -1,4 +1,4 @@
-VERI SETI - gercek ingest + rapor
+data set - real ingest + report
 ==================================================
 
 dosya: 4
