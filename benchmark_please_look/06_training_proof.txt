@@ -1,7 +1,7 @@
-SIFIRDAN EGITIM - model gercekten ogreniyor
+zero to model - model learning really
 ==================================================
 
-nano GPT, gercek kod verisi, CPU:
+nano GPT, real code data, CPU:
 
   adim  10  loss 66.4
   adim  20  loss 26.9
@@ -16,4 +16,4 @@ nano GPT, gercek kod verisi, CPU:
   adim 120  loss 3.31
   adim 150  loss 3.25
 
->>> loss 66.4 -> 3.25  (GERCEKTEN ogrendi - placeholder degil)
+>>> loss 66.4 -> 3.25  (really teached - placeholder no)
